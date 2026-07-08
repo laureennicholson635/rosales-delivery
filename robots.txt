@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://laureennicholson635.github.io/rosales-delivery/sitemap.xml
